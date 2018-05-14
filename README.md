@@ -13,7 +13,7 @@ This is an important question to answer. If you discover that a majority of your
 Customer surveys and A/B testing can really help you uncover the true motivations of your customers.
 
   
-# How to Analyize ?
+# How to Analyze ?
 Big Data has been a key determining factor in identifying behavioral segmentation. Customer records show buying patterns over time that could prompt promotions and sales based on spending habits of particular brands. This is a unique, personalized customer experience tailored directly to the consumer.
 Behavioral traits include:
   
@@ -22,7 +22,9 @@ Behavioral traits include:
 - Brand loyalty
 - Benefits sought
   
-  
+# Example of segmentation from Click Data using R
+![img](https://github.com/tkshim/Picture/blob/master/market_sgment3.png)
+
 # Reference
 https://en.wikipedia.org/wiki/Market_segmentation#Bases_for_segmenting_consumer_markets
 https://www.salesforce.com/products/marketing-cloud/best-practices/behavioral-segmentation/
