@@ -25,8 +25,14 @@ Behavioral traits include:
 # Example of segmentation from Click Data using R
 ![img](https://github.com/tkshim/Picture/blob/master/market_sgment3.png)
 
+# Pareto Distribution  
+![img](https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Probability_density_function_of_Pareto_distribution.svg/488px-Probability_density_function_of_Pareto_distribution.svg.png)
+  
+![img](https://wikimedia.org/api/rest_v1/media/math/render/svg/fc54bf848bcd80222c2f04609175b027f7b5fbf9)  
+
 # Reference
 https://en.wikipedia.org/wiki/Market_segmentation#Bases_for_segmenting_consumer_markets
 https://www.salesforce.com/products/marketing-cloud/best-practices/behavioral-segmentation/
 https://www.mckinsey.com/business-functions/mckinsey-analytics/our-insights/how-companies-are-using-big-data-and-analytics
 http://www.selligent.com/content/market-segmentation-example
+https://en.wikipedia.org/wiki/Pareto_distribution
